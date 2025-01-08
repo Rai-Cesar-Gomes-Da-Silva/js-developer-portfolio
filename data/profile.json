@@ -1,6 +1,6 @@
 {
-  "name": "Raizin",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "name": "Raí César Gomes Da Silva",
+  "photo": "file:///C:/Users/Rai/OneDrive/Imagens/Captura%20de%20tela%202023-12-17%20111058.png",
   "job": "Estudante de ADS",
   "location": "Franca - SP",
   "phone": "(16) 99325-3230",
@@ -12,24 +12,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "HTMl",
+        "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/Documents/Digital%20Innovation%20One/slides%20aulas%20diversas/Trilhas/JavaScript/m04/LogosTecnologias_PNG/Ativo%204_1@4x.png"
       }
     ],
     "softSkills": [
@@ -42,37 +26,21 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (básico)",
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Nenhum Projeto ainda",
+      "url": "",
       "github": true
     }
-  ],
+   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Nenhuma até o momento",
+      "period": " - ",
+      "description": "Apesar de não ter nenhuma experiência no mercado de TI quero vir a trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     }
   ]
 }
